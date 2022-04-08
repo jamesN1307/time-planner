@@ -16,4 +16,10 @@ THEN I can enter an event
 WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
-THEN the saved events persist
+THEN the saved events persist!
+
+[Screenshot 2022-04-07 210246](https://user-images.githubusercontent.com/97413286/162360333-6dafeae0-3e2b-4f5a-8ff5-1544c482288e.png)
+
+
+
+![Work Day Scheduler](https://user-images.githubusercontent.com/97413286/162360716-4f529bcd-10a7-4eaf-a7c8-937783295db5.gif)
