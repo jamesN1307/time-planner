@@ -23,3 +23,7 @@ THEN the saved events persist!
 
 
 ![Work Day Scheduler](https://user-images.githubusercontent.com/97413286/162360716-4f529bcd-10a7-4eaf-a7c8-937783295db5.gif)
+
+
+URL : https://jamesn1307.github.io/time-planner/
+Github: https://github.com/jamesN1307/time-planner
